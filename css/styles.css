@@ -1,9 +1,25 @@
 img {
 	width: 300px;
 	height: auto;
+	float: right;
 }
 
 .sidebar {
 	width: 30%;
-	float: center;
+	float: left;
+	font-family: Verdana;
+	color: #f3722c;
+}
+
+body {
+	background-color: #277da1;
+}
+
+.alpha {
+	font-family: Helvetica;
+	color: #f94144;
+}
+
+.bravo {
+	color: #f9c74f;
 }
