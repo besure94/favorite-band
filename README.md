@@ -21,7 +21,7 @@ This website allows users to view a description of The Brian Jonestown Massacre 
 
 ## Known Bugs
 
-* I have not figured out how to float images to the right side of the sidebar, where the tour schedule is displayed. I plan to fix this once I gain more knowledge of CSS.
+* I have not figured out how to properly format the images in the sidebar, so that they aren't odd looking and distracting. I plan to change this as I gain more knowledge of CSS.
 
 ## License
 
