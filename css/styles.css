@@ -9,6 +9,8 @@ img {
 	float: left;
 	font-family: Verdana;
 	color: #f3722c;
+	font-weight: 800;
+	line-height: 25px;
 }
 
 body {
@@ -18,8 +20,10 @@ body {
 .alpha {
 	font-family: Helvetica;
 	color: #f94144;
+	font-weight: 800;
 }
 
 .bravo {
 	color: #f9c74f;
+	font-family: Verdana;
 }
