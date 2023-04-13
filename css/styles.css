@@ -2,6 +2,10 @@ img {
 	width: 300px;
 	height: auto;
 	float: right;
+	border: 2px solid #f9c74f;
+	padding: 4px;
+	margin: 6px;
+
 }
 
 .sidebar {
@@ -11,6 +15,9 @@ img {
 	color: #f3722c;
 	font-weight: 800;
 	line-height: 25px;
+	border: 2px solid #f94144;
+	padding: 6px;
+	margin: 10px;
 }
 
 body {
