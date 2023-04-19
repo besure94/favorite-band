@@ -12,6 +12,15 @@ body {
 	background-color: #277da1;
 }
 
+.container {
+	background-color: #577590;
+}
+
+.disco {
+	text-align: center;
+	color: #f94144;
+}
+
 .jumbotron {
 	background-color: #577590;
 	text-align: center;
@@ -24,7 +33,7 @@ body {
 
 .jumbotron h1 {
 	color: #f94144;
-	font-weight: 800;;
+	font-weight: 800;
 }
 
 .jumbotron p {
