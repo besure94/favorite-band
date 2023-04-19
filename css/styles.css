@@ -1,3 +1,18 @@
+.alpha {
+	font-family: Helvetica;
+	color: #f94144;
+	font-weight: 800;
+}
+
+body {
+	background-color: #277da1;
+}
+
+.bravo {
+	color: #f9c74f;
+	font-family: Verdana;
+}
+
 img {
 	width: 300px;
 	height: auto;
@@ -5,7 +20,10 @@ img {
 	border: 2px solid #f9c74f;
 	padding: 4px;
 	margin: 6px;
+}
 
+.jumbotron {
+	background-color: #577590;
 }
 
 .sidebar {
@@ -19,20 +37,5 @@ img {
 	padding: 6px;
 	margin: 10px;
 	background-color: #577590;
-}
-
-body {
-	background-color: #277da1;
-}
-
-.alpha {
-	font-family: Helvetica;
-	color: #f94144;
-	font-weight: 800;
-}
-
-.bravo {
-	color: #f9c74f;
-	font-family: Verdana;
 }
 
