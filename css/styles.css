@@ -4,6 +4,12 @@
 	font-weight: 800;
 }
 
+.BJM {
+	width: 250px;
+	height: auto;
+	float: right;
+}
+
 body {
 	background-color: #277da1;
 }
@@ -13,17 +19,9 @@ body {
 	font-family: Verdana;
 }
 
-img {
-	width: 300px;
-	height: auto;
-	float: right;
-	border: 2px solid #f9c74f;
-	padding: 4px;
-	margin: 6px;
-}
-
 .jumbotron {
 	background-color: #577590;
+	text-align: center;
 }
 
 .sidebar {
