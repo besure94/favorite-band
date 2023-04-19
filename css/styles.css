@@ -14,14 +14,20 @@ body {
 	background-color: #277da1;
 }
 
-.bravo {
-	color: #f9c74f;
-	font-family: Verdana;
-}
-
 .jumbotron {
 	background-color: #577590;
 	text-align: center;
+}
+
+.jumbotron h1 {
+	color: #f94144;
+	font-weight: 800;;
+}
+
+.jumbotron p {
+	color: #f9c74f;
+	font-weight: 500;
+	text-align: left;
 }
 
 .sidebar {
