@@ -3,21 +3,28 @@
 }
 
 .anton {
-	float: right;
+	float: left;
+	padding: 8px;
 }
 
 .bio {
 	color: #f94144;
 }
 
+.bio h2 {
+	font-weight: 700;
+}
+
 .bio p {
 	color: #f9c74f;
+	font-weight: 500;
 }
 
 .BJM {
-	width: 250px;
+	width: auto;
 	height: auto;
 	float: right;
+	padding-left: 2px;
 }
 
 body {
@@ -26,6 +33,7 @@ body {
 
 .disco {
 	color: #f94144;
+	font-weight: 700;
 }
 
 .jumbotron {
