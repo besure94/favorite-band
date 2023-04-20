@@ -1,5 +1,5 @@
-.anton {
-	float: left;
+.albums {
+	color:#f9c74f;
 }
 
 .BJM {
@@ -12,23 +12,13 @@ body {
 	background-color: #277da1;
 }
 
-.container {
-	background-color: #577590;
-}
-
 .disco {
-	text-align: center;
 	color: #f94144;
 }
 
 .jumbotron {
 	background-color: #577590;
 	text-align: center;
-}
-
-.img {
-	width: 150px;
-	height: auto;
 }
 
 .jumbotron h1 {
@@ -44,6 +34,5 @@ body {
 
 .tour {
 	color: #f94144;
-	text-align: center;
 	font-weight: 700;
 }
