@@ -2,6 +2,18 @@
 	color:#f9c74f;
 }
 
+.anton {
+	float: right;
+}
+
+.bio {
+	color: #f94144;
+}
+
+.bio p {
+	color: #f9c74f;
+}
+
 .BJM {
 	width: 250px;
 	height: auto;
