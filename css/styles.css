@@ -84,12 +84,18 @@ body {
 	display: flex;
 }
 
+.mental {
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin-right: 3%;
+}
+
 .spacegirl {
 	float: left;
 	width: 150px;
 	height: 150px;
 	margin-right: 3%;
-
 }
 
 .tour {
