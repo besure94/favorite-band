@@ -2,6 +2,12 @@
 	color:#f9c74f;
 }
 
+.albums li {
+	color: #f94144;
+	font-size: larger;
+	font-weight: 500;
+}
+
 .anton {
 	float: left;
 	padding: 8px;
@@ -76,6 +82,14 @@ body {
 
 .col-md-3 {
 	display: flex;
+}
+
+.spacegirl {
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin-right: 3%;
+
 }
 
 .tour {
