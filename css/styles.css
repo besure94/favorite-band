@@ -10,7 +10,7 @@
 
 .anton {
 	float: left;
-	padding: 8px;
+	margin-right: 1%;
 }
 
 .bio {
@@ -27,10 +27,8 @@
 }
 
 .BJM {
-	width: auto;
+	width: 300px;
 	height: auto;
-	float: right;
-	padding-left: 2px;
 }
 
 body {
