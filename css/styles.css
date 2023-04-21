@@ -84,6 +84,13 @@ body {
 	display: flex;
 }
 
+.give {
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin-right: 3%;
+}
+
 .mental {
 	float: left;
 	width: 150px;
