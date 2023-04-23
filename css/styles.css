@@ -14,7 +14,7 @@
 
 .anton {
 	float: left;
-	margin-right: 1%;
+	margin-right: 2%;
 }
 
 .bio {
@@ -30,10 +30,10 @@
 	font-weight: 500;
 }
 
-.BJM {
+/* .BJM {
 	width: 300px;
 	height: auto;
-}
+} */
 
 body {
 	background-color: #277da1;
@@ -42,6 +42,19 @@ body {
 .disco {
 	color: #f94144;
 	font-weight: 700;
+}
+
+.images {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: flex-start;
+	justify-content: space-evenly;
+}
+
+img {
+	width: 300px;
+	height: auto;
 }
 
 .jumbotron {
