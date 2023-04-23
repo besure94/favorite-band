@@ -2,6 +2,10 @@
 	color:#f9c74f;
 }
 
+.albums a {
+	color:#f94144;
+}
+
 .albums li {
 	color: #f94144;
 	font-size: larger;
