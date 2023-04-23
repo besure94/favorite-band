@@ -82,6 +82,13 @@ body {
 	display: flex;
 }
 
+.future {
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin-right: 3%;
+}
+
 .give {
 	float: left;
 	width: 150px;
@@ -97,6 +104,13 @@ body {
 }
 
 .spacegirl {
+	float: left;
+	width: 150px;
+	height: 150px;
+	margin-right: 3%;
+}
+
+.take {
 	float: left;
 	width: 150px;
 	height: 150px;
