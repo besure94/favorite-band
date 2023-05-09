@@ -34,9 +34,18 @@ body {
 	background-color: #277da1;
 }
 
+button {
+	background-color: #f94144;
+	color: #f9c74f;
+}
+
 .disco {
 	color: #f94144;
 	font-weight: 700;
+}
+
+.hidden {
+	display: none;
 }
 
 .images {
