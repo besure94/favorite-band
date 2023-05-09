@@ -30,11 +30,6 @@
 	font-weight: 500;
 }
 
-/* .BJM {
-	width: 300px;
-	height: auto;
-} */
-
 body {
 	background-color: #277da1;
 }
@@ -118,6 +113,16 @@ img {
 	width: 150px;
 	height: 150px;
 	margin-right: 3%;
+}
+
+.questions {
+	color: #f9c74f;
+}
+
+.quiz {
+	text-align: center;
+	color:#f94144;
+	font-weight: 700;
 }
 
 .spacegirl {
